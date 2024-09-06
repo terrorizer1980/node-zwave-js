@@ -61,7 +61,7 @@
   },
   "dependencies": {
     "@alcalzone/jsonl-db": "^1.2.5",
-    "@alcalzone/pak": "^0.6.0",
+    "@alcalzone/pak": "^0.8.1",
     "@sentry/integrations": "^6.5.1",
     "@sentry/node": "^6.5.1",
     "@zwave-js/config": "7.7.3",
@@ -70,12 +70,12 @@
     "@zwave-js/shared": "7.7.3",
     "alcalzone-shared": "^3.0.4",
     "ansi-colors": "^4.1.1",
-    "axios": "^0.21.1",
+    "axios": "^1.6.8",
     "fs-extra": "^9.0.1",
     "reflect-metadata": "^0.1.13",
-    "serialport": "^9.1.0",
+    "serialport": "^10.0.2",
     "source-map-support": "^0.5.19",
-    "winston": "^3.3.3",
+    "winston": "^3.3.4",
     "xstate": "^4.20.0"
   },
   "scripts": {

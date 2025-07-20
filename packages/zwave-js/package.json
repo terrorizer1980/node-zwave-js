@@ -61,7 +61,7 @@
   },
   "dependencies": {
     "@alcalzone/jsonl-db": "^1.2.5",
-    "@alcalzone/pak": "^0.6.0",
+    "@alcalzone/pak": "^0.10.1",
     "@sentry/integrations": "^6.5.1",
     "@sentry/node": "^6.5.1",
     "@zwave-js/config": "7.7.3",
